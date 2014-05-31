@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package multiples3.pkg5;
+package ProjectEuler1.pkg5;
 
 //@author Daniel
  
@@ -12,7 +12,7 @@ package multiples3.pkg5;
 //we get 3, 5, 6 and 9. The sum of these multiples is 23
 //Find the sum of all the multiples of 3 or 5 below 1000.
 
- public class Multiples35 {
+ public class ProjectEuler1 {
 
 
     /**
